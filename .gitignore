@@ -1,0 +1,6 @@
+.chef/local-mode-cache
+.chef/keys
+.chef/syntaxcache/*
+clients/*
+nodes/*
+vms/*

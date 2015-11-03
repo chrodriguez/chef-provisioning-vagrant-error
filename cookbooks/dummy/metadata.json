@@ -1,0 +1,18 @@
+{ "attributes" : {  },
+  "conflicting" : {  },
+  "dependencies" : { },
+  "description" : "Dummy recipe",
+  "groupings" : {  },
+  "license" : "",
+  "long_description" : "",
+  "maintainer" : "",
+  "maintainer_email" : "",
+  "name" : "dummy",
+  "platforms" : { },
+  "providing" : {  },
+  "recipes" : { },
+  "recommendations" : {  },
+  "replacing" : {  },
+  "suggestions" : {  },
+  "version" : "1.0.0"
+}
